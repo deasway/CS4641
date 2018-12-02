@@ -1,11 +1,9 @@
 Name: Alan Li
-GTID: 903216274
 
 To run code, install:
 Python 2.7.x
 scikit-learn : http://scikit-learn.org/stable/install.html
 numpy & scipy : https://www.scipy.org/scipylib/download.html
-IDLE or equivalent 
 
 All the required data files are in their respective folders.
 the other .txt files include information about the datasets themselves. They were written by the original authors:
